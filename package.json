@@ -7,7 +7,7 @@
   },
   "repository": {
     "type": "git",
-    "url": ""
+    "url": "https://github.com/patelritesh261/sampleSurvey"
   },
   "author": "Team Members :- Ritesh Patel,Rutvik Patel,Parvati Patel,Himanshu Patel",
   "description": "Create Survey Site Using MEAN(MongoDB,Express,Angular,Node JS)",
